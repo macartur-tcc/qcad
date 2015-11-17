@@ -1,3 +1,4 @@
+#pragma once
 /******************************************************************************
  * Project:  libspatialindex - A C++ library for spatial indexing
  * Author:   Howard Butler, hobu.inc@gmail.com

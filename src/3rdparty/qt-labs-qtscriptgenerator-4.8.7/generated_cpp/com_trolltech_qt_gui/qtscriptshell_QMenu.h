@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QMENU_H
 #define QTSCRIPTSHELL_QMENU_H
 

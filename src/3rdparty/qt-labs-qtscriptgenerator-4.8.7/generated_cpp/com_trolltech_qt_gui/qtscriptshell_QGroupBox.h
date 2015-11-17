@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QGROUPBOX_H
 #define QTSCRIPTSHELL_QGROUPBOX_H
 

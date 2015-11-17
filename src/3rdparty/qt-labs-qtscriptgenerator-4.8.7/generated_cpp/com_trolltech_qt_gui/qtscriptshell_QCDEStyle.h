@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QCDESTYLE_H
 #define QTSCRIPTSHELL_QCDESTYLE_H
 

@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QEVENTLOOP_H
 #define QTSCRIPTSHELL_QEVENTLOOP_H
 

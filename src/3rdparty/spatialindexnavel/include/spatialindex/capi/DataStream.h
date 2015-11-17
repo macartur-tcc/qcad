@@ -1,3 +1,4 @@
+#pragma once
 /******************************************************************************
  * Project:  libsidx - A C API wrapper around libspatialindex
  * Purpose:	 Declarations to support stream loading via C API

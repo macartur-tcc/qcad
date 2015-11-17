@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QBOXLAYOUT_H
 #define QTSCRIPTSHELL_QBOXLAYOUT_H
 

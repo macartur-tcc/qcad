@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QLCDNUMBER_H
 #define QTSCRIPTSHELL_QLCDNUMBER_H
 

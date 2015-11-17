@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QBITMAP_H
 #define QTSCRIPTSHELL_QBITMAP_H
 

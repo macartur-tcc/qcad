@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QTIMEEDIT_H
 #define QTSCRIPTSHELL_QTIMEEDIT_H
 

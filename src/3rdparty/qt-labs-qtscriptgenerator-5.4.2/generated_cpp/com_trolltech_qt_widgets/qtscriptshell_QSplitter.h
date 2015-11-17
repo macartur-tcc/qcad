@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QSPLITTER_H
 #define QTSCRIPTSHELL_QSPLITTER_H
 

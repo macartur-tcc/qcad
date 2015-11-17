@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QSOUND_H
 #define QTSCRIPTSHELL_QSOUND_H
 

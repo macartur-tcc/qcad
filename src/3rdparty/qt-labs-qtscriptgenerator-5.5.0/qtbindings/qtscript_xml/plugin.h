@@ -1,3 +1,4 @@
+#pragma once
 #include <QtScript/QScriptExtensionPlugin>
 #include <QtScript/QScriptValue>
 #include <QtScript/QScriptEngine>

@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QVALIDATOR_H
 #define QTSCRIPTSHELL_QVALIDATOR_H
 

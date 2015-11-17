@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QUILOADER_H
 #define QTSCRIPTSHELL_QUILOADER_H
 

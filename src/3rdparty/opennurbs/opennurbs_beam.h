@@ -1,3 +1,4 @@
+#pragma once
 #if !defined(OPENNURBS_EXTRUSION_INC_)
 #define OPENNURBS_EXTRUSION_INC_
 

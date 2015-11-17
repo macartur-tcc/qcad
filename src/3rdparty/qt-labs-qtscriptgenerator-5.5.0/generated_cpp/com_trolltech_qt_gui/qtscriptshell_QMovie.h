@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QMOVIE_H
 #define QTSCRIPTSHELL_QMOVIE_H
 

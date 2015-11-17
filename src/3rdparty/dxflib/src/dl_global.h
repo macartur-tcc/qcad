@@ -1,3 +1,4 @@
+#pragma once
 #if defined(DXFLIB_DLL)
 #   ifdef _WIN32
 #       if defined(DXFLIB_LIBRARY)

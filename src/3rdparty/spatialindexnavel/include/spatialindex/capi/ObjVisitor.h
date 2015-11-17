@@ -1,3 +1,4 @@
+#pragma once
 /******************************************************************************
  * Project:  libsidx - A C API wrapper around libspatialindex
  * Purpose:  C++ object declarations to implement the object visitor.

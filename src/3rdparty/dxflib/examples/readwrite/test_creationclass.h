@@ -1,3 +1,4 @@
+#pragma once
 /**
  * @file test_creationclass.h
  */

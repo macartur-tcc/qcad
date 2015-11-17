@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QMDIAREA_H
 #define QTSCRIPTSHELL_QMDIAREA_H
 

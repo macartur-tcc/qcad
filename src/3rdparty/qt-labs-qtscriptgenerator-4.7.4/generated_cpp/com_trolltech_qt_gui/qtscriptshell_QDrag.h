@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QDRAG_H
 #define QTSCRIPTSHELL_QDRAG_H
 

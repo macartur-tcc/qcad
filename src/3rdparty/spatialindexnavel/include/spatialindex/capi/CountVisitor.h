@@ -1,3 +1,4 @@
+#pragma once
 /******************************************************************************
  * Project:  libsidx - A C API wrapper around libspatialindex
  * Purpose:  C++ objects to implement the count visitor.

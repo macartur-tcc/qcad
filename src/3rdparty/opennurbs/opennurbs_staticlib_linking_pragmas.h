@@ -1,3 +1,4 @@
+#pragma once
 #if defined(_MSC_VER)
 
 // This file is specific to Micrsoft's compiler.

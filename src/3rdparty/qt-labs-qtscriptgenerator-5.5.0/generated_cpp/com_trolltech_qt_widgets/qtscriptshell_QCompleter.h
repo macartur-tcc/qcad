@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QCOMPLETER_H
 #define QTSCRIPTSHELL_QCOMPLETER_H
 

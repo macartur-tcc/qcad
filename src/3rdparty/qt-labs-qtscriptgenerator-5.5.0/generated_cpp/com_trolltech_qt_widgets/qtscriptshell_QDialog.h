@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QDIALOG_H
 #define QTSCRIPTSHELL_QDIALOG_H
 

@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QTEXTLIST_H
 #define QTSCRIPTSHELL_QTEXTLIST_H
 

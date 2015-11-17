@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QWEBPAGE_H
 #define QTSCRIPTSHELL_QWEBPAGE_H
 

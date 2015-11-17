@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QGLSHADER_H
 #define QTSCRIPTSHELL_QGLSHADER_H
 

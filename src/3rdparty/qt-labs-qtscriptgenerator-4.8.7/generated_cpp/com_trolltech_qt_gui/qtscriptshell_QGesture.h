@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QGESTURE_H
 #define QTSCRIPTSHELL_QGESTURE_H
 

@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QTCPSERVER_H
 #define QTSCRIPTSHELL_QTCPSERVER_H
 

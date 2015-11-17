@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QLISTVIEW_H
 #define QTSCRIPTSHELL_QLISTVIEW_H
 

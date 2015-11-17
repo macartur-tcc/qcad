@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QCOMBOBOX_H
 #define QTSCRIPTSHELL_QCOMBOBOX_H
 

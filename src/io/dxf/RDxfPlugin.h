@@ -1,3 +1,4 @@
+#pragma once
 #ifndef RDXFPLUGIN_H_
 #define RDXFPLUGIN_H_
 

@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QMATRIX3X3_H
 #define QTSCRIPTSHELL_QMATRIX3X3_H
 

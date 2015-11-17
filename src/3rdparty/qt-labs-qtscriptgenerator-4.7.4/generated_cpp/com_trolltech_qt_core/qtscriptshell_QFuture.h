@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QFUTURE_H
 #define QTSCRIPTSHELL_QFUTURE_H
 

@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QTREEVIEW_H
 #define QTSCRIPTSHELL_QTREEVIEW_H
 

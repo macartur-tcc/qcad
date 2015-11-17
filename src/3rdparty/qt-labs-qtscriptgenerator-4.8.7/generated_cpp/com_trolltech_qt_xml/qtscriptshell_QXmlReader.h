@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QXMLREADER_H
 #define QTSCRIPTSHELL_QXMLREADER_H
 

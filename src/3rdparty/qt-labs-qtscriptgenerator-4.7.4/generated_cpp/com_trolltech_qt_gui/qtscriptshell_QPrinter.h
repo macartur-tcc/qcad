@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QPRINTER_H
 #define QTSCRIPTSHELL_QPRINTER_H
 

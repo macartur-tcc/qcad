@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QURLINFO_H
 #define QTSCRIPTSHELL_QURLINFO_H
 

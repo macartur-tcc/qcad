@@ -1,3 +1,4 @@
+#pragma once
 /**
  * Copyright (c) 2011-2013 by Andrew Mustun. All rights reserved.
  * 

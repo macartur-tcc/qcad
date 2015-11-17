@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QSQLRESULT_H
 #define QTSCRIPTSHELL_QSQLRESULT_H
 

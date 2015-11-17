@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_MEDIANODE_H
 #define QTSCRIPTSHELL_MEDIANODE_H
 

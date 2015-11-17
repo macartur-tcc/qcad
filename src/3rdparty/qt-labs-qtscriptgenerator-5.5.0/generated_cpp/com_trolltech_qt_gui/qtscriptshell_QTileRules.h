@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QTILERULES_H
 #define QTSCRIPTSHELL_QTILERULES_H
 

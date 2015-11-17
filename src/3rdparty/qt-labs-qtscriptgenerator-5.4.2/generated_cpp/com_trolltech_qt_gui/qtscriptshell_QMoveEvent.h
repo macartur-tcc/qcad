@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QMOVEEVENT_H
 #define QTSCRIPTSHELL_QMOVEEVENT_H
 

@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QHTTP_H
 #define QTSCRIPTSHELL_QHTTP_H
 

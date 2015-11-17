@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QSLIDER_H
 #define QTSCRIPTSHELL_QSLIDER_H
 

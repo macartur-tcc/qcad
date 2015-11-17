@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_SEEKSLIDER_H
 #define QTSCRIPTSHELL_SEEKSLIDER_H
 

@@ -1,3 +1,4 @@
+#pragma once
 /******************************************************************************
  * Project:  libsidx - A C API wrapper around libspatialindex
  * Purpose:	 C++ object declarations to implement a query of the index's leaves.

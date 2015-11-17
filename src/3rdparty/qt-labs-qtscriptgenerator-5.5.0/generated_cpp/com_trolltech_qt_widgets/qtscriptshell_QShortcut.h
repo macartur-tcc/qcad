@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QSHORTCUT_H
 #define QTSCRIPTSHELL_QSHORTCUT_H
 

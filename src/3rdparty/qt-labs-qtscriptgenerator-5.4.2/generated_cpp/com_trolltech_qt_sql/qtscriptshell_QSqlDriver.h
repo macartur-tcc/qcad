@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QSQLDRIVER_H
 #define QTSCRIPTSHELL_QSQLDRIVER_H
 

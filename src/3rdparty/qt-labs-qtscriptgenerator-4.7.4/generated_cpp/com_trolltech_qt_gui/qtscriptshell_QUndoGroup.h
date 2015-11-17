@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QUNDOGROUP_H
 #define QTSCRIPTSHELL_QUNDOGROUP_H
 

@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QSTATUSBAR_H
 #define QTSCRIPTSHELL_QSTATUSBAR_H
 

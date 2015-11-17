@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QRUNNABLE_H
 #define QTSCRIPTSHELL_QRUNNABLE_H
 

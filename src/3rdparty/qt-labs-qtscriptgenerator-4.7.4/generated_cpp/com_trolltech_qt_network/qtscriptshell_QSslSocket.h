@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QSSLSOCKET_H
 #define QTSCRIPTSHELL_QSSLSOCKET_H
 

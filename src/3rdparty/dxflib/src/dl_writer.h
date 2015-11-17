@@ -1,3 +1,4 @@
+#pragma once
 /****************************************************************************
 ** Copyright (C) 2001-2013 RibbonSoft, GmbH. All rights reserved.
 ** Copyright (C) 2001 Robert J. Campbell Jr.

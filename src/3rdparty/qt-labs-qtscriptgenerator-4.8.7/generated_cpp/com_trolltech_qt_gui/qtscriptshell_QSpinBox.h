@@ -1,3 +1,4 @@
+#pragma once
 #ifndef QTSCRIPTSHELL_QSPINBOX_H
 #define QTSCRIPTSHELL_QSPINBOX_H
 

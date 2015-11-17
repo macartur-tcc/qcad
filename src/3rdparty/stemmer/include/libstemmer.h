@@ -1,3 +1,4 @@
+#pragma once
 
 /* Make header file work when included from C++ */
 #ifdef __cplusplus
